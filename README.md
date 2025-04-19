@@ -1,6 +1,6 @@
 # Connect 4 – Basic ML Agent
 
-This repo contains the notebook and model used to train a basic machine learning agent for Connect 4. Running it is **not required** for using the final game.
+This project folder contains the notebook and model used to train a basic machine learning agent for Connect 4. Running it is **not required** for using the final game.
 
 ---
 
@@ -8,7 +8,7 @@ This repo contains the notebook and model used to train a basic machine learning
 
 - `connect4_move_predictor.ipynb` – Code used to train the ML model  
 - `connect-4.data` – UCI dataset of historical Connect 4 games
-- `ml_agent.pkl` – Exported trained model used in the game
+- `ml_agent.pkl` – Exported trained model used as Basic ML Agent in the game
 
 ---
 
@@ -28,13 +28,13 @@ This repo contains the notebook and model used to train a basic machine learning
 
 ## Optional: Rerun the Training
 
-If you want to retrain or explore the process:
+If you want to rerun the notebook locally:
 
-1. Make sure you have Python 3.10+ installed.
+1. Ensure Python 3.10+ is installed.
 2. Install required packages:
 
    ```bash
    pip install numpy pandas scikit-learn
    ```
 3. Open and run the notebook: `connect4_move_predictor.ipynb`
-> The notebook was created and tested in Jupyter Notebook.
+> This notebook was created and tested in Jupyter Notebook. You can also open it in VS Code with the Jupyter extension.
