@@ -16,7 +16,7 @@ This project folder contains the notebook and model used to train a basic machin
 
 - The notebook was used to preprocess the dataset and train a classifier.
 - The resulting model (`ml_agent.pkl`) is loaded directly in the game.
-- This repository is **not needed** to play the game.
+- This folder is **not needed** to play the game.
 
 ---
 
