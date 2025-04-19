@@ -16,13 +16,13 @@ This project folder contains the notebook and model used to train a basic machin
 
 - The notebook was used to preprocess the dataset and train a classifier.
 - The resulting model (`ml_agent.pkl`) is loaded directly in the game.
-- This repository is **not needed** to play or test the game.
+- This repository is **not needed** to play the game.
 
 ---
 
 ## Dataset
-- Connect 4 Dataset
-  - https://archive.ics.uci.edu/dataset/26/connect+4
+Connect 4 dataset from UCI Machine Learning Repository:
+https://archive.ics.uci.edu/dataset/26/connect+4
  
 ---
 
@@ -30,7 +30,7 @@ This project folder contains the notebook and model used to train a basic machin
 
 If you want to rerun the notebook locally:
 
-1. Ensure Python 3.10+ is installed.
+1. Ensure Python 3 is installed.
 2. Install required packages:
 
    ```bash
