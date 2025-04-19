@@ -16,7 +16,7 @@ This project folder contains the notebook and model used to train a basic machin
 
 - The notebook was used to preprocess the dataset and train a classifier.
 - The resulting model (`ml_agent.pkl`) is loaded directly in the game.
-- This repo is **not needed** to play or test the game.
+- This repository is **not needed** to play or test the game.
 
 ---
 
@@ -38,3 +38,10 @@ If you want to rerun the notebook locally:
    ```
 3. Open and run the notebook: `connect4_move_predictor.ipynb`
 > This notebook was created and tested in Jupyter Notebook. You can also open it in VS Code with the Jupyter extension.
+
+---
+
+## GitHub Version (Optional)
+
+[View this folder on GitHub](https://github.com/Shelly855/connect4-basic-ml-agent)  
+> **Note:** This link is optional and not required for marking. The GitHub version may be updated after submission.
