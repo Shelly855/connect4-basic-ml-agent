@@ -4,6 +4,17 @@ This project folder contains the notebook and model used to train a basic machin
 
 ---
 
+## Table of Contents
+
+- [Connect 4 – Basic ML Agent](#connect-4--basic-ml-agent)
+- [Files](#files)
+- [Notes](#notes)
+- [Dataset](#dataset)
+- [Optional: Rerun the Training](#optional-rerun-the-training)
+- [GitHub Version (Optional)](#github-version-optional)
+
+---
+
 ## Files
 
 - `connect4_move_predictor.ipynb` – Code used to train the ML model  
@@ -44,4 +55,4 @@ If you want to rerun the notebook locally:
 ## GitHub Version (Optional)
 
 [View this folder on GitHub](https://github.com/Shelly855/connect4-basic-ml-agent)  
-> **Note:** This link is optional and not required for marking. The GitHub version may be updated after submission.
+> **Note:** This GitHub link is optional and not required for marking. The repository may be updated after submission.
