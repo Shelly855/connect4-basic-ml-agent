@@ -9,7 +9,7 @@ This project folder contains the notebook and model used to train a basic machin
 - [Connect 4 – Basic ML Agent](#connect-4--basic-ml-agent)
 - [Files](#files)
 - [Notes](#notes)
-- [Dataset](#dataset)
+- [References](#references)
 - [Optional: Rerun the Training](#optional-rerun-the-training)
 - [GitHub Version (Optional)](#github-version-optional)
 
@@ -31,9 +31,11 @@ This project folder contains the notebook and model used to train a basic machin
 
 ---
 
-## Dataset
-Connect 4 dataset from UCI Machine Learning Repository:
-https://archive.ics.uci.edu/dataset/26/connect+4
+## References
+- Connect 4 dataset from UCI Machine Learning Repository:
+  - https://archive.ics.uci.edu/dataset/26/connect+4
+- Scikit-learn: Machine Learning in Python
+  - https://scikit-learn.org/stable/index.html
  
 ---
 
