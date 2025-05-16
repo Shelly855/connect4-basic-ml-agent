@@ -1,6 +1,6 @@
 # Connect 4 – Basic ML Agent
 
-This repository contains the notebook and model used to train a basic machine learning agent for Connect 4. Running it is **not required** for using the [final game](https://github.com/Shelly855/connect4-ai).
+This repository contains the notebook and model used to train a basic machine learning agent for Connect 4. Running it is **not required** for playing the [final game](https://github.com/Shelly855/connect4-ai).
 
 ---
 
