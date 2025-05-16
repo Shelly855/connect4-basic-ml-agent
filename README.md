@@ -1,6 +1,6 @@
 # Connect 4 – Basic ML Agent
 
-This project folder contains the notebook and model used to train a basic machine learning agent for Connect 4. Running it is **not required** for using the final game.
+This repository contains the notebook and model used to train a basic machine learning agent for Connect 4. Running it is **not required** for using the [final game](https://github.com/Shelly855/connect4-ai).
 
 ---
 
@@ -11,7 +11,6 @@ This project folder contains the notebook and model used to train a basic machin
 - [Notes](#notes)
 - [References](#references)
 - [Optional: Rerun the Training](#optional-rerun-the-training)
-- [GitHub Version (Optional)](#github-version-optional)
 
 ---
 
@@ -27,7 +26,6 @@ This project folder contains the notebook and model used to train a basic machin
 
 - The notebook was used to preprocess the dataset and train a classifier.
 - The resulting model (`ml_agent.pkl`) is loaded directly in the game.
-- This folder is **not needed** to play the game.
 
 ---
 
@@ -41,7 +39,7 @@ This project folder contains the notebook and model used to train a basic machin
 
 ## Optional: Rerun the Training
 
-If you want to rerun the notebook locally:
+To rerun the notebook locally:
 
 1. Ensure Python 3 is installed.
 2. Install required packages:
@@ -51,10 +49,3 @@ If you want to rerun the notebook locally:
    ```
 3. Open and run the notebook: `connect4_move_predictor.ipynb`
 > This notebook was created and tested in Jupyter Notebook. You can also open it in VS Code with the Jupyter extension.
-
----
-
-## GitHub Version (Optional)
-
-[View this folder on GitHub](https://github.com/Shelly855/connect4-basic-ml-agent)  
-> **Note:** This GitHub link is optional and not required for marking. The repository may be updated after submission.
